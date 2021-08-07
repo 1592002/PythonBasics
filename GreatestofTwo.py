@@ -1,4 +1,4 @@
-# Greatest of two numbers
+# Greatest of two values
 # Def the value of X
 X = float(input("Please enter the value of X :"))
 # Def the value of Y
